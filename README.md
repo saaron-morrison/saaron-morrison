@@ -1,20 +1,13 @@
 ## Hi there 👋
 
-Hello, I'm Aaron. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
+Hello, I'm Aaron. I am a Data Analyst with 3 years of experience in data governance, dashboard development, and cross-functional analytics in early education, government, and nonprofit sectors. Proven track record in designing data infrastructure, improving reporting efficiency, and ensuring compliance (e.g., Head Start, federal reporting). Adept at translating data into executive insights, leading high-performing teams, and partnering with IT and operations to enhance data usability. Strong technical skills in SQL, Python, Tableau, and ETL processes, combined with experience in stakeholder engagement and data standardization.
 
-- Querying data using SQL.
-- Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau and Looker Studio.
-- Data analysis and reporting using Google Sheets and Excel.
+### 🛠️ Tools
+- Language: SQL, Python
+- IDEs: Anaconda, Jupyter Notebook
+- Database: Google BigQuery, PostgreSQL, MySQL
+- Software: MS Office, Salesforce, SurveyMonkey, Google Drive & Analytics, Asana, Canva
+- Visualization: Tableau, Looker Studio
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋🏻 Connect with Me
+- [Linkedin](https://www.linkedin.com/in/saaronmorrison/)
