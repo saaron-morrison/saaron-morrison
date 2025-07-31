@@ -12,4 +12,4 @@ Hello, I'm Aaron. I am a Data Analyst with 3 years of experience in data governa
 
 ### 👋🏻 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/saaronmorrison/)
-- email:saaron.morrison@gmail.com
+- saaron.morrison@gmail.com
