@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Hello, I'm Aaron. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
+
+    Querying data using SQL.
+    Generate reports and perform ad-hoc data analysis using SQL.
+    Developing dashboards on Tableau and Looker Studio.
+    Data analysis and reporting using Google Sheets and Excel.
+
+
 <!--
 **saaron-morrison/saaron-morrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
